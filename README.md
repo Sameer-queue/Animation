@@ -1,2 +1,1 @@
-# Animation
-Front-end Animation Project
+#PROJECT
